@@ -1,1 +1,1 @@
-# Machine-learning-assignments-by-Andrew-Ng
+# Machine-learning-assignments-by-Andrew-Ng week 6
